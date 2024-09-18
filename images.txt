@@ -1,2 +1,2 @@
-golang:1.21-buster
+golang:1.16-buster
 
