@@ -1,2 +1,2 @@
-nginx
+golang:1.21-buster
 
