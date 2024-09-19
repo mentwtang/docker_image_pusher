@@ -1,2 +1,2 @@
-golang:1.16-buster
+gcr.io/distroless/base-debian10
 
