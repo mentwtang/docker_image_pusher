@@ -1,2 +1,2 @@
-mrhavens/dedockify
+openjdk:8-jdk-alpine
 
