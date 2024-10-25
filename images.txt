@@ -1,2 +1,2 @@
-registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
+/helowin/oracle_11g
 
