@@ -1,2 +1,2 @@
-openjdk:8-jdk-alpine
+registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
 
