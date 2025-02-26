@@ -1,2 +1,2 @@
-nvidia/cuda:12.4.0-runtime-ubuntu22.04
+approachingai/ktransformers:0.2.1
 
