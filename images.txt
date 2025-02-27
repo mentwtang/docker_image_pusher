@@ -1,2 +1,2 @@
-pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+library/node:20.16.0
 
