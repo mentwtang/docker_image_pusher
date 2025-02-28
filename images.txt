@@ -1,2 +1,1 @@
-library/node:20.16.0
-
+vllm/vllm-openai:0.7.3
