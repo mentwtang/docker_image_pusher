@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.3-cu124
+pytorch/pytorch:latest
