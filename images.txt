@@ -1,1 +1,1 @@
-gcr.io/distroless/static:nonroot
+vllm/vllm-openai:v0.6.2
