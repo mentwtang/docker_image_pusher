@@ -1,1 +1,1 @@
-jettech/kube-webhook-certgen:v1.5.2
+iangjw/kube-webhook-certgen:v1.1.1
