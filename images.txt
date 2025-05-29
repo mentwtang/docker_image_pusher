@@ -1,1 +1,1 @@
-nvidia/cuda:12.6.3-base-ubuntu22.04
+kube-webhook-certgen:v1.5.2
