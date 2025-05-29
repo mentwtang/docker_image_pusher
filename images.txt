@@ -1,1 +1,1 @@
-kube-webhook-certgen:v1.5.2
+jettech/kube-webhook-certgen:v1.5.2
